@@ -1,2 +1,2 @@
-# my_first_README
-This is a change on my README
+# My first README
+## In this little proyect I am going to experiment how to creater a good README
