@@ -9,7 +9,7 @@ This is my first paragraph and I am going to do it as long as I can, because I w
 >Do not give up.<br/>
 
 I am going to write some code here:<br/>
-'''
+```
 var number_1 = 5;
 var number_2 = 10;
 if(number_1 > number_2){
@@ -18,4 +18,4 @@ if(number_1 > number_2){
 else{
     console.log(number_2 + ' is greater than ' + number_1);
 }
-'''
+```
