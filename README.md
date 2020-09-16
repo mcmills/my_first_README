@@ -7,3 +7,13 @@ This is my first paragraph and I am going to do it as long as I can, because I w
 >I always wanted to have my own quote <br/>
 >So this is my quote:<br/>
 >Do not give up.<br/>
+
+I am going to write some code here:
+    var number_1 = 5;
+    var number_2 = 10;
+    if(number_1 > number_2){
+        console.log(number_1 + ' is greater than ' + number_2);
+    }
+    else{
+        console.log(number_2 + ' is greater than ' + number_1);
+    }
